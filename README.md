@@ -1,2 +1,3 @@
 # EEG-Based-Biometric-Authentication-for-Brain-Computer-Interfaces-
-Authenticating users has always been an integral part of security systems. Despite the fact that Biometric Authentication has long been the gold standard for security, with advancing technology, even the biometric authentication techniques are not safe from forgery and deception. A significant step would be Biometric Authentication using the few channels of Electroencephalogram (EEG) data available in brain computer interfaces (BCIs). Authentication could be done quickly and effortlessly capturing a predefined brain state which is impossible to evoke by insistence or coercion nor can be replicated by a non-living brain, because every human brain has a distinctive neural signature.
+
+![Alt text](https://github.com/Abhishek0697/EEG-Based-Biometric-Authentication-for-Brain-Computer-Interfaces-/blob/master/Images/Poster.png)
